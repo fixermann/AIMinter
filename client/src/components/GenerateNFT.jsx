@@ -143,6 +143,8 @@ const GenerateNFT = () => {
         <Stepper
           size={50}
           activeColor="#9946FF"
+          completeTitleColor="#FFFF"
+          completeColor="#9946FF"
           defaultColor="#0000"
           defaultBorderColor="#4A1A87"
           activeBorderColor="#4A1A87"
